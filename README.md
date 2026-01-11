@@ -46,7 +46,7 @@ python examples/train.py --algo hasac --env maritime_mec --exp_name maritime_exp
 
 ## Citation
 
-If you find this code useful, please cite our paper:
+If you find this code useful for your research, please consider citing our papers:
 
 ```bibtex
 @ARTICLE{11045994,
@@ -58,6 +58,17 @@ If you find this code useful, please cite our paper:
   number={11},
   pages={18081-18095},
   doi={10.1109/TVT.2025.3581970}
+}
+
+@ARTICLE{11284890,
+  author={You, Jiahao and Jia, Ziye and Cui, Can and Dong, Chao and Wu, Qihui and Han, Zhu},
+  journal={IEEE Transactions on Cognitive Communications and Networking}, 
+  title={Hierarchical Task Offloading and Trajectory Optimization in Low-Altitude Intelligent Networks Via Auction and Diffusion-based MARL}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCCN.2025.3641588}
 }
 ```
 
